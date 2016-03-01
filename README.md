@@ -5,7 +5,7 @@
 
 [(https://git-for-windows.github.io/)](https://git-for-windows.github.io/)
 *** ***
-*** When installed ***
+** When installed **
 
 # Open Git Bash
 
@@ -144,7 +144,7 @@ key: [ paste in key from bb_key.txt ]
 # create a readme.md 
 
 # README.MD
-*** this is my readme.md ***
+** this is my readme.md **
 ```
 
 # Bitbucket ( Clone Test )
